@@ -44,15 +44,15 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1789026976621</value>
+    <value>1789673237729</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
-    <value>true</value>
+    <value>false</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addPagination</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addSearchBox</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addAccessibilityToolbar</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
